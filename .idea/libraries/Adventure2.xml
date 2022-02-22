@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Adventure2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MedicoDellaPeste/out/artifacts/Adventure2_jar/Adventure2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
